@@ -32,6 +32,10 @@ phoneNumber.reverse();
 
 var nextOrder = orderQueue.shift();
 
+mixedNums.sort();
+
+mixedWords.sort();
+
 
 
 
